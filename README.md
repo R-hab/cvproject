@@ -8,7 +8,7 @@
 - [References](#References)
 - [Notes](#Notes)
 ## General info
-In this project, we used FER2013 dataset to accomplish the project and we used open cv harr cascade we've been able to detect  faces in the input image successfully.
+In this project, we used FER2013 dataset to accomplish the project and we used open cv harrcascade  in the input image to detect faces successfully.
 ## Background
 
 Over the last few years, there is an increase in the desire to use deep learning tools to understand human behavior patterns. One of the most trendy challenges in this field is facial expression recognition. Facial expressions are a form of nonverbal communication. The immediate association when talking about human behavior is facial expression and, it's can tell us a lot about human emotions. The challenge is predicting the underlying image to one of seven different emotions (happiness, sadness, anger, fear, disgust, surprise, neutral).
