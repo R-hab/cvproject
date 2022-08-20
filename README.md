@@ -34,5 +34,5 @@ The proposed architecture used for this work is further explained in the report
 
 ## Notes
 
-- The data, and the predictor are too big to be uploaded to GitHub. 
+- The data, and the predictor are too big to be uploaded to GitHub. [model link](https://drive.google.com/file/d/1-4xKX3hGE67o-s_IbsMqfCS1JhhHL1z7/view?usp=sharing
   (for the raw images and the predictor you need to download the files and put them in a folder with the exact same name as in the original folder)
