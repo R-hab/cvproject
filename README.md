@@ -18,7 +18,7 @@ Over the last few years, there is an increase in the desire to use deep learning
 | Filename                    | description                                                                                       |
 | --------------------------- | ------------------------------------------------------------------------------------------------- |
 | `facial_emotion_reco.ipynb` | The main file in .ipynb format                                                                    |
-| `content`                   |  folder contain sample images and open cv harr cascad                                             |
+| `content`                   |  folder contain sample images and open cv harrcascade                                             |
 | `Final_project_report`      | The report of the project                                                                         |
 ## Architecture
 
